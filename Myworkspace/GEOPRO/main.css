@@ -1,0 +1,29 @@
+body{
+    background: #EEEEEE;
+    color: black;
+}
+p {
+    color: rgba(255, 102, 0, 0.616);
+}
+.logo{
+    width: 40%;
+    padding-left: 3em;
+    
+
+}
+h3{
+padding-left: 3em;
+}
+ul{
+    display: inline;
+    padding-left: 15em;
+}
+header{
+    border: blue;
+    background: #ECA24D;
+    color: white;
+
+}
+.background_image{
+    background: transparent;
+}
